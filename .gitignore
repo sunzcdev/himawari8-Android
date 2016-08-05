@@ -40,4 +40,5 @@ proguard/
 *.log
 .navigation/
 captures/
+# Keystore files
 *.jks
